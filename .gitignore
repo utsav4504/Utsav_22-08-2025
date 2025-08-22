@@ -1,0 +1,9 @@
+
+# Ignore large data folder for CSVs
+src/main/resources/data/
+# Ignore build output
+target/
+# IDE folders (optional)
+.idea/
+*.iml
+.vscode/
