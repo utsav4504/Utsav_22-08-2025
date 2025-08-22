@@ -214,7 +214,7 @@ Alternatively, add a `.gitattributes`:
 ## 🎥 Demo
 
 Watch a demo of the workflow:  
-[Demo Video Link](https://loom.com/share/your-demo-video-link)
+https://www.loom.com/share/850e9308e82246f4a2c57daa6b04d959?sid=b5f928a9-261c-4f10-b266-000ab77dba27
 
 ---
 
